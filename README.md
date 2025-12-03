@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diu Nguyen</h1>
-<h3 align="center">Data Engineer | Big Data | Cloud | Streaming Pipelines | Full-Stack Web Developer</h3>
+<h3 align="center">Data Engineer | Big Data | Cloud | Full-Stack Web Developer</h3>
 
 ---
 
