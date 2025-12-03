@@ -50,7 +50,7 @@ I enjoy building things that scale and automating everything 😄
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/debezium/debezium-original.svg](https://www.vectorlogo.zone/logos/debeziumio/debeziumio-ar21.svg)" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/debeziumio/debeziumio-ar21.svg" width="40" height="40"/>
 
 <!-- Cloud / Storage -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minio/minio-original.svg" width="40" height="40"/>
