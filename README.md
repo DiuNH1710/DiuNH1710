@@ -34,7 +34,7 @@ I enjoy building things that scale and automating everything 😄
 
 <!-- Big Data & Streaming -->
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DATAg1AAZAA0)" width="40" height="40"/>
+<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-spark-94zum7n2swq44413oz16m.png/apache-spark-xntvdsnrrb09llwflruka.png?_a=DATAg1AAZAA0" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
