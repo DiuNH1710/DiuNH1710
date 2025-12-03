@@ -48,7 +48,7 @@ I enjoy building things that scale and automating everything 😄
 
 <!-- Big Data & Streaming -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachehadoop/apachehadoop-original.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debezium/debezium-original.svg" width="40" height="40"/>
 
