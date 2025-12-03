@@ -4,7 +4,8 @@
 **🔭 Currently working on:** Building data pipelines (batch & streaming) and real-time analytics with Spark, Kafka, Airflow.  
 **🌱 Currently learning:** Big Data (Spark, Kafka, Hadoop) and Cloud (AWS, Azure, GCP).  
 **💬 Ask me about:** Data Engineering, ETL, Databases, Backend (Python/Java/FastAPI/Node.js), Frontend (React), Docker & Microservices.
-**👨‍💻 My Projects:**
+
+#### 👨‍💻 My Projects:
   Check my pinned repositories below ⬇️  
   I keep my most important Data Engineering & Big Data projects there.
   
