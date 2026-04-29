@@ -16,7 +16,7 @@
 I enjoy building things that scale and automating everything 😄
 
 #### 🛠 Languages and Tools
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <!-- Programming Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
